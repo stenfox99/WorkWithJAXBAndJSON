@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Student>
+    <Name>name</Name>
+    <Surname>surname</Surname>
+    <dateBirth>02.04.2018</dateBirth>
+</Student>
